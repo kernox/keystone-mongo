@@ -1,3 +1,9 @@
+# Docker start
+```bash
+docker-compose up
+```
+
+
 # KeystoneJS Blank Starter Template
 
 You've created a KeystoneJS project! This project contains an AdminUI and GraphQL App.
